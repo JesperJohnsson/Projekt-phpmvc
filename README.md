@@ -13,11 +13,13 @@ This is my project for the course phpmvc on Blekinge Tekniska Högskolan in Karl
 
 Usage
 -----------------
-To use this project simply clone it from github
+To use this project simply clone it from github or download and unzip the content
 
 <code>
 git clone https://github.com/JesperJohnsson/Projekt-phpmvc
 </code>
+
+and place it in a directory of your choice, then simply make sure you have write access to the data folder and the database in the folder. Make sure you have write access to the webroot/ folder and on the files style.less.cache and style.css.
 
 
 
