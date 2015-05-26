@@ -14,6 +14,7 @@ This is my project for the course phpmvc on Blekinge Tekniska Högskolan in Karl
 Usage
 -----------------
 To use this project simply clone it 
+
 [code]
 git clone https://github.com/JesperJohnsson/Projekt-phpmvc
 [/code]
