@@ -13,11 +13,13 @@ This is my project for the course phpmvc on Blekinge Tekniska Högskolan in Karl
 
 Usage
 -----------------
-To use this project simply clone it 
+To use this project simply clone it from github
 
-[pre]
+<code>
 git clone https://github.com/JesperJohnsson/Projekt-phpmvc
-[/pre]
+</code>
+
+
 
 
 License
