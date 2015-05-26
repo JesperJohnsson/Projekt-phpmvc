@@ -15,9 +15,9 @@ Usage
 -----------------
 To use this project simply clone it 
 
-[code]
+[pre]
 git clone https://github.com/JesperJohnsson/Projekt-phpmvc
-[/code]
+[/pre]
 
 
 License
