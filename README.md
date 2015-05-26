@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Anax-MVC
 =========
 
@@ -153,3 +154,7 @@ v1.0.0 (2013-06-28)
  .  
 ..:  Copyright (c) 2013 - 2014 Mikael Roos, me@mikaelroos.se
 ```
+=======
+# Projekt-phpmvc
+This is my project for the course phpmvc on Blekinge Tekniska Högskolan in Karlskrona.
+>>>>>>> 439a3ecd37b33abd72f5727d56a39afec959ce4a
