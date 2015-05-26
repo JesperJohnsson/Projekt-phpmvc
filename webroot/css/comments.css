@@ -1,0 +1,62 @@
+.comments {
+    width:@total-width;
+    margin-bottom:@magicNumber;
+    padding:10px;
+    border: 1px solid #DADADA;
+    overflow: auto;
+    background-color: #F8F8F8;
+}
+
+.comments a {
+    color:#5E9EFF;
+    text-decoration:none;
+}
+
+.comments a:hover {
+    color: #4B7ECC;
+
+}
+
+.comments img.gavatar {
+    margin-right:15px;
+    border: 1px solid #DADADA;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    float:left;
+}
+
+.comments .userAndTime {
+    margin:13px;
+    color: #666;
+}
+
+.comments .content {
+    margin-top:20px;
+    margin-bottom:5px;
+    margin-left:5px;
+}
+
+.comments .vote {
+    margin-left:5px;
+    margin-top:0;
+    margin-bottom:0;
+    color: #666;
+}
+
+.comments span {
+    margin-right: 5px;
+    margin-left: 5px;
+    color: #DADADA;
+}
+
+.comment-form {
+    margin-bottom:20px;
+    padding-top:5px;
+    border-top:1px solid #ccc;
+    border-bottom:1px solid #ccc;
+}
+
+.comment-form  textarea {
+    font: 100%/120% Verdana, Arial, Helvetica, sans-serif;
+}
