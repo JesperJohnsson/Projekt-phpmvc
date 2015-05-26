@@ -11,21 +11,15 @@ Projekt-phpmvc
 -----------------
 This is my project for the course phpmvc on Blekinge Tekniska Högskolan in Karlskrona.
 
+Usage
+-----------------
+To use this project simply clone it 
+[code]
+git clone https://github.com/JesperJohnsson/Projekt-phpmvc
+[/code]
 
 
 License
 ------------------
 
 This software is free software and carries a MIT license.
-
-
-
-Use of external libraries
------------------------------------
-
-The following external modules are included and subject to its own license.
-
-
-
-
-
